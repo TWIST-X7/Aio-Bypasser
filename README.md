@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>⭐ IF YOU LIKED AIO BYPASSER<br></h3>
+  <h3>✨AIO BYPASSER✨<br></h3>
 </div>
 
 <div align="center">
