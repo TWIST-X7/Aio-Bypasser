@@ -12,7 +12,7 @@
 </div>
 
 #### Features
-- 🟩 + 18 links Supported
+- 🟩 + 17 links Supported
 - 🟩 Very Fast
 - 🟩 Easy to use
 ##### 🟩 = Done/Working | 🟨 = In development | ⬛️ = Todo | 🟥 = Not Working
